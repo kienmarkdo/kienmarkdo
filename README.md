@@ -5,7 +5,6 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
 - Seeking
   - An 8 to 12 month internship starting in Fall 2021 or Winter 2022
   - A 3 month summer internship starting in May 2022
-
 - Open to as many fields as I can in order to find out what I like
 - Some of my interests are
   - Web Development or Mobile Development
