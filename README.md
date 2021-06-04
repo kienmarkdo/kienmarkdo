@@ -26,7 +26,7 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
 
 ### Salut 👋
 
-Bienvenue à mon profil GitHub! Je m'appelle Kien et je suis étudiant en informatique à l'université d'Ottawa.
+Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en informatique à l'université d'Ottawa.
 
 - **À la recherche**
   - D'un stage de 8 à 12 mois commençant à l'automne 2021 ou en hiver 2022
