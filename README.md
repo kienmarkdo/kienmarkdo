@@ -43,7 +43,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
 ### Compétences
 - **Langages de programmation:** Java, C++, Python
 - **Développement web front-end:** HTML, CSS/SCSS, Javascript ES6, Boostrap, jQuery
-- **tests unitaires:** JUnit
+- **Tests unitaires:** JUnit
 - **Gestion de version:** git BASH
 - **Environnements:** IntelliJ IDEA, VS Code, ligne de commande Windows/BASH, Linux Ubuntu
 
