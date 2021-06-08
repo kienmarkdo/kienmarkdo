@@ -36,7 +36,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
   - Développement web ou mobile
     - Front-end seulement
     - Android ou iOS
-  - Développeent de jeux
+  - Développement de jeux
   - Sûreté
   - Firmware / systèmes embarqués
   - Assurance qualité des logiciels
