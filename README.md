@@ -7,7 +7,7 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
   - A 3 month summer internship starting in May 2022
 - **Some of my interests are**
   - Web Development or Mobile Development
-    - Front-end or back-end or full-stack
+    - Front-end only
     - Android or iOS
   - Game Development
   - Security
@@ -34,7 +34,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
   - D'un stage de 3 mois commençant à l'été 2022
 - **Certains de mes intérêts sont**
   - Développement web ou mobile
-    - Front-end ou back-end ou full-stack
+    - Front-end seulement
     - Android ou iOS
   - Développeent de jeux
   - Sûreté
