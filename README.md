@@ -2,17 +2,19 @@
 
 Welcome to my GitHub profile! My name is Kien and I am a Computer Science student at the University of Ottawa.
 
-- **Currently seeking**
-  - An 8 to 12 month internship starting in Fall 2021 or Winter 2022
+I am currently self-learning front-end web development and working to master front-end technologies before moving on to back-end development.
+
+- **I am seeking**
+  - An 8 internship starting in Winter 2022, or
   - A 3 month summer internship starting in May 2022
 - **Some of my interests are**
   - Web Development or Mobile Development
     - Front-end only
     - Android or iOS
   - Game Development
-  - Security
-  - Firmware / Embedded Systems
   - Software Quality Assurance
+<!--   - Security
+  - Firmware / Embedded Systems -->
 - **I am open to any other opportunities that arise!**
 
 ### Skills
@@ -29,17 +31,19 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
 
 Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en informatique à l'université d'Ottawa.
 
-- **À la recherche**
-  - D'un stage de 8 à 12 mois commençant à l'automne 2021 ou en hiver 2022
+Je suis actuellement en train d'apprendre par moi-même le développement web frontal et je m'efforce de maîtriser les technologies frontales avant de passer au développement back-end.
+
+- **Je suis à la recherche**
+  - D'un stage de 8 mois commençant en hiver 2022, ou
   - D'un stage de 3 mois commençant à l'été 2022
 - **Certains de mes intérêts sont**
   - Développement web ou mobile
     - Front-end seulement
     - Android ou iOS
   - Développement de jeux
-  - Sûreté
-  - Firmware / systèmes embarqués
   - Assurance qualité des logiciels
+<!--   - Sûreté
+  - Firmware / systèmes embarqués -->
 - **Je suis ouvert à toutes les opportunités!**
 
 ### Compétences
