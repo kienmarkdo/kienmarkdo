@@ -13,9 +13,9 @@ I am currently self-learning front-end web development and working to master fro
     - Android or iOS
   - Game Development
   - Software Quality Assurance
+- **I am open to any other opportunities that arise!**
 <!--   - Security
   - Firmware / Embedded Systems -->
-- **I am open to any other opportunities that arise!**
 
 ### Skills
 - **Programming languages:** Java, C++, Python
@@ -42,9 +42,9 @@ Je suis actuellement en train d'apprendre par moi-même le développement web fr
     - Android ou iOS
   - Développement de jeux
   - Assurance qualité des logiciels
+- **Je suis ouvert à toutes les opportunités!**
 <!--   - Sûreté
   - Firmware / systèmes embarqués -->
-- **Je suis ouvert à toutes les opportunités!**
 
 ### Compétences
 - **Langages de programmation:** Java, C++, Python
