@@ -5,11 +5,10 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
 I am currently self-learning front-end web development and working to master front-end technologies before moving on to back-end development.
 
 - **I am seeking**
-  - An 8 internship starting in Winter 2022, or
   - A 3 month summer internship starting in May 2022
 - **Some of my interests are**
   - Web Development or Mobile Development
-    - Front-end only
+    - Front-end
     - Android or iOS
   - Game Development
   - Software Quality Assurance
@@ -34,11 +33,10 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
 Je suis actuellement en train d'apprendre par moi-même le développement web frontal et je m'efforce de maîtriser les technologies frontales avant de passer au développement back-end.
 
 - **Je suis à la recherche**
-  - D'un stage de 8 mois commençant en hiver 2022, ou
   - D'un stage de 3 mois commençant à l'été 2022
 - **Certains de mes intérêts sont**
   - Développement web ou mobile
-    - Front-end seulement
+    - Front-end
     - Android ou iOS
   - Développement de jeux
   - Assurance qualité des logiciels
