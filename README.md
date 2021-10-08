@@ -18,7 +18,8 @@ I am currently self-learning front-end web development and working to master fro
 
 ### Skills
 - **Programming languages:** Java, C++, Python
-- **Front-end web development:** HTML, CSS/SCSS, Javascript ES6, Boostrap, jQuery
+- **Front-end web development:** HTML, CSS/SCSS, Javascript ES6, Bootstrap, jQuery
+- **Mobile Development:** Android Studio
 - **Unit testing:** JUnit
 - **Version control:** git BASH
 - **Environments:** IntelliJ IDEA, VS Code, Windows command line, BASH command line, Linux Ubuntu
@@ -46,7 +47,8 @@ Je suis actuellement en train d'apprendre par moi-même le développement web fr
 
 ### Compétences
 - **Langages de programmation:** Java, C++, Python
-- **Développement web front-end:** HTML, CSS/SCSS, Javascript ES6, Boostrap, jQuery
+- **Développement web front-end:** HTML, CSS/SCSS, Javascript ES6, Bootstrap, jQuery
+- **Développement mobile:** Android Studio
 - **Tests unitaires:** JUnit
 - **Gestion de version:** git BASH
 - **Environnements:** IntelliJ IDEA, VS Code, ligne de commande Windows/BASH, Linux Ubuntu
