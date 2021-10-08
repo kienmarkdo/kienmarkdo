@@ -5,7 +5,7 @@ Welcome to my GitHub profile! My name is Kien and I am a Computer Science studen
 I am currently self-learning front-end web development and working to master front-end technologies before moving on to back-end development.
 
 - **I am seeking**
-  - A 4 month summer co-op/internship starting in May 2022
+  - A 4-month summer co-op/internship starting in May 2022
 - **Some of my interests are**
   - Web Development or Mobile Development
     - Front-end
