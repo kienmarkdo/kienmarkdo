@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! My name is Kien and I am a Computer Science student at the University of Ottawa.
 
-I am currently self-learning front-end web development and working to master front-end technologies before moving on to back-end development.
+<!-- I am currently self-learning front-end web development and working to master front-end technologies before moving on to back-end development.
 
 - **I am seeking**
   - A 4-month summer co-op/internship starting in May 2022
@@ -12,17 +12,17 @@ I am currently self-learning front-end web development and working to master fro
     - Android or iOS
   - Game Development
   - Software Quality Assurance
-- **I am open to any other opportunities that arise!**
+- **I am open to any other opportunities that arise!** -->
 <!--   - Security
   - Firmware / Embedded Systems -->
 
-### Skills
+<!-- ### Skills
 - **Programming languages:** Java, C++, Python
 - **Front-end web development:** HTML, CSS/SCSS, Javascript ES6, Bootstrap, jQuery
 - **Mobile app development:** Android Studio
 - **Unit testing:** JUnit
 - **Version control:** git BASH
-- **Environments:** IntelliJ IDEA, VS Code, Windows command line, BASH command line, Linux Ubuntu
+- **Environments:** IntelliJ IDEA, VS Code, Windows command line, BASH command line, Linux Ubuntu -->
 
 <!-- =========================================================================================================================== -->
 <hr>
@@ -33,7 +33,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
 
 Je suis actuellement en train d'apprendre par moi-même le développement web frontal et je m'efforce de maîtriser les technologies frontales avant de passer au développement back-end.
 
-- **Je suis à la recherche**
+<!-- - **Je suis à la recherche**
   - D'un co-op/stage de 4 mois commençant à l'été 2022
 - **Certains de mes intérêts sont**
   - Développement web ou mobile
@@ -41,17 +41,17 @@ Je suis actuellement en train d'apprendre par moi-même le développement web fr
     - Android ou iOS
   - Développement de jeux
   - Assurance qualité des logiciels
-- **Je suis ouvert à toutes les opportunités!**
+- **Je suis ouvert à toutes les opportunités!** -->
 <!--   - Sûreté
   - Firmware / systèmes embarqués -->
 
-### Compétences
+<!-- ### Compétences
 - **Langages de programmation:** Java, C++, Python
 - **Développement web front-end:** HTML, CSS/SCSS, Javascript ES6, Bootstrap, jQuery
 - **Développement app mobile:** Android Studio
 - **Tests unitaires:** JUnit
 - **Gestion de version:** git BASH
-- **Environnements:** IntelliJ IDEA, VS Code, ligne de commande Windows/BASH, Linux Ubuntu
+- **Environnements:** IntelliJ IDEA, VS Code, ligne de commande Windows/BASH, Linux Ubuntu -->
 
 <!-- =========================================================================================================================== -->
 <hr>
