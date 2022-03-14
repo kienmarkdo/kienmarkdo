@@ -57,7 +57,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
 <hr>
 
 [![Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=kienmarkdo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kienmarkdo&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kienmarkdo&layout=compact&show_icons=true&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kienmarkdo/kienmarkdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
