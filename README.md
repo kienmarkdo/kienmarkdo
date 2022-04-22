@@ -65,7 +65,7 @@ Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis étudiant en infor
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=kienmarkdo&show_icons=true&theme=radical">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienmarkdo&layout=compact&show_icons=true&theme=radical&langs_count=6" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienmarkdo&layout=compact&show_icons=true&theme=radical&langs_count=8" />
   </a>
 </p>
 
