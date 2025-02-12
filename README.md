@@ -1,12 +1,12 @@
 ### Hello 👋
 
-Welcome to my GitHub profile! My name is Kien and I am a Computer Science alumnus at the University of Ottawa.
+Welcome to my GitHub profile! My name is Kien and I am a Computer Science graduate of the University of Ottawa.
 
 <hr>
 
 ### Salut 👋
 
-Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis diplômé en informatique à l'Université d'Ottawa.
+Bienvenue sur mon profil GitHub! Je m'appelle Kien et je suis diplômé en informatique de l'Université d'Ottawa.
 
 <hr>
 
